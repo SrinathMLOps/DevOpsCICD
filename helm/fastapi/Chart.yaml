@@ -1,0 +1,13 @@
+apiVersion: v2
+name: fastapi
+description: A Helm chart for FastAPI CI/CD application
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
+keywords:
+  - fastapi
+  - cicd
+  - kubernetes
+maintainers:
+  - name: Srinath
+    email: srinath@example.com
